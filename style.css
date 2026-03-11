@@ -10,14 +10,28 @@ body {
     font-family: 'Poppins', sans-serif;
     background-color: #f3ede7; /* bege claro */
     color: #7a4a2f;
+
 }
+.container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    background-color: #8B5E3C;
+}
+.paginaTotal {
+        width: 1000px;
+        background-color: #f3ede7;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
 
 /* FAIXA SUPERIOR */
 .topo {
     background-color: #b8683c; /* terracota */
     color: white;
     padding: 60px 40px;
-    position: relative;
+     
 }
 
 .topo-conteudo {
