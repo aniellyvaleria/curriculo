@@ -11,3 +11,19 @@ function github() {
 function IT7() {
     window.open("IT7anielly.pdf")
 }
+
+function py() {
+    window.open("https://developer.mozilla.org/pt-BR/docs/Glossary/Python")
+}
+
+function js() {
+    window.open("https://developer.mozilla.org/pt-BR/docs/Web/JavaScript")
+}
+
+function html() {
+    window.open("https://developer.mozilla.org/en-US/docs/Web/HTML")
+}
+
+function css() {
+    window.open("https://developer.mozilla.org/pt-BR/docs/Web/CSS")
+}

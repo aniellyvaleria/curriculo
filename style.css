@@ -8,18 +8,22 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #f3ede7; /* bege claro */
+    background-color: #d8996a; /* bege claro */
     color: #7a4a2f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
 }
 .container{
-    width: 100vw;
+    width: 60vw;
     display: flex;
     justify-content: center;
-    background-color: #8B5E3C;
+    background-color: #d8996a;
+    box-shadow: 0 0 30px#57331e;
 }
 .paginaTotal {
-        width: 1000px;
+        width: 100vw;
         background-color: #f3ede7;
         display: flex;
         flex-direction: column;
@@ -106,7 +110,7 @@ ul {
 }
 
 .imggit {
-    width: 5vw;
+    width: 30px;
 }
 
 li {
@@ -122,4 +126,9 @@ li {
     border: none;
     margin-bottom:1vw ;
 } 
+
+.lingua {
+    background: none;
+    border: none;
+}
 
